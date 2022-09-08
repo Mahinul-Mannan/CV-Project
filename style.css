@@ -1,0 +1,145 @@
+ * {
+     margin: 0;
+     padding: 0;
+
+ }
+
+ body {
+     background-color: rgba(0, 255, 255, 0.336);
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+ }
+
+ .header1 {
+     padding: 10px;
+     padding-bottom: -0px;
+     margin-bottom: 10px;
+     color: whitesmoke;
+     background-color: brown;
+     max-width: 5000px;
+     margin: 0 auto;
+ }
+
+ .header2 {
+     padding: 20px;
+     margin-left: 20px;
+ }
+
+ h2 {
+     color: aqua;
+ }
+
+ h4{
+    background-color: lightskyblue;
+    max-width: 270px;
+ }
+
+ .h5{
+     background-color: lightpink;
+     color: rgb(51, 14, 14);
+     max-width: 250px;
+
+
+ }
+
+ .imgFormat {
+     width: 50px;
+     height: 80;
+     border: 2px solid aquamarine;
+     border-radius: 140%;
+     float: left;
+     margin-right: 20px;
+
+ }
+
+ .info {
+     float: right;
+     color: blue;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-size: 12px;
+ }
+
+ .info p:hover {
+     text-decoration: none;
+     color: darkblue;
+     cursor: pointer;
+ }
+
+ .info a:hover {
+     text-decoration: none;
+     color: darkblue;
+     cursor: pointer;
+ }
+
+ .divClear {
+     clear: both;
+ }
+
+ .hr1 {
+     border-style: none;
+     border: solid black 3px;
+     width: 1000;
+     margin-bottom: 25px;
+
+
+
+ }
+
+ .hr2 {
+     border-style: none;
+     border: solid black 1px;
+     width: 1000;
+     margin: 20px auto;
+
+
+ }
+
+ .leftDiv {
+     float: left;
+     width: 300px;
+     min-width: 100px;
+     max-width: 30%;
+     color: blue;
+     margin-left: 10px;
+ }
+
+ .rightDiv {
+     float: left;
+     width: 600;
+     min-width: 100px;
+     max-width: 70%;
+     text-align: justify;
+
+ }
+
+ .midDiv {
+     float: left;
+     width: 275;
+     min-width: 50px;
+     max-width: 30%;
+     text-align: justify;
+
+ }
+
+ .lastDiv {
+     float: left;
+     width: 275;
+     min-width: 50px;
+     max-width: 30%;
+     text-align: justify;
+     padding-left: 120px;
+
+
+ }
+
+ .footer{
+    background-color: skyblue;
+    color: black;
+    font-size: large;
+    max-width: 5000px;
+    height: 70px;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+ }
